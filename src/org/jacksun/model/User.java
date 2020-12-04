@@ -26,5 +26,16 @@ public class User {
 		return "User [name=" + name + ", age=" + age + "]";
 	}
 
+	public User(String name, int age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+
+	public User() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 
 }
