@@ -1,2 +1,2 @@
 # sample-git-project
-this is repository for my learning course
+this is welcome repository for my learning course to just let us to view
